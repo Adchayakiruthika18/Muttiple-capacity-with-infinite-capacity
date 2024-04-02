@@ -54,4 +54,4 @@ print("--------------------------------------------------------------")
 ![image](https://github.com/Adchayakiruthika18/Muttiple-capacity-with-infinite-capacity/assets/147139995/e7d63fc7-ad9b-47cf-adc2-7ce72d704eab)
 
 ## Result : 
-By using python programming to analyse given data using coeffificient of correlation and regression line is successfully executed.
+By using the python programming we find the Multiple server with infinite capacity and culculated.
